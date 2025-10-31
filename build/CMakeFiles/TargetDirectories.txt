@@ -1,0 +1,3 @@
+/home/jose/Documentos/4 cuatrimestre/Practicas Dc Said/ds-u2-actividad-1-listasenlazadassimples-Lolomar131/build/CMakeFiles/ValdoEjecutable.dir
+/home/jose/Documentos/4 cuatrimestre/Practicas Dc Said/ds-u2-actividad-1-listasenlazadassimples-Lolomar131/build/CMakeFiles/edit_cache.dir
+/home/jose/Documentos/4 cuatrimestre/Practicas Dc Said/ds-u2-actividad-1-listasenlazadassimples-Lolomar131/build/CMakeFiles/rebuild_cache.dir

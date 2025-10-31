@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ValdoEjecutable.dir/main.cpp.o -o ValdoEjecutable 
